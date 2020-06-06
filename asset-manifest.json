@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/RA_composition_decomposition/static/css/main.65542694.chunk.css",
+    "main.js": "/RA_composition_decomposition/static/js/main.e037be7e.chunk.js",
+    "main.js.map": "/RA_composition_decomposition/static/js/main.e037be7e.chunk.js.map",
+    "runtime-main.js": "/RA_composition_decomposition/static/js/runtime-main.b6ba5fab.js",
+    "runtime-main.js.map": "/RA_composition_decomposition/static/js/runtime-main.b6ba5fab.js.map",
+    "static/js/2.24b9e04a.chunk.js": "/RA_composition_decomposition/static/js/2.24b9e04a.chunk.js",
+    "static/js/2.24b9e04a.chunk.js.map": "/RA_composition_decomposition/static/js/2.24b9e04a.chunk.js.map",
+    "index.html": "/RA_composition_decomposition/index.html",
+    "precache-manifest.fdb3b108b92ac942667c8c64a57245a6.js": "/RA_composition_decomposition/precache-manifest.fdb3b108b92ac942667c8c64a57245a6.js",
+    "service-worker.js": "/RA_composition_decomposition/service-worker.js",
+    "static/css/main.65542694.chunk.css.map": "/RA_composition_decomposition/static/css/main.65542694.chunk.css.map",
+    "static/js/2.24b9e04a.chunk.js.LICENSE.txt": "/RA_composition_decomposition/static/js/2.24b9e04a.chunk.js.LICENSE.txt",
+    "static/media/adv.png": "/RA_composition_decomposition/static/media/adv.3afe9b69.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6ba5fab.js",
+    "static/js/2.24b9e04a.chunk.js",
+    "static/css/main.65542694.chunk.css",
+    "static/js/main.e037be7e.chunk.js"
+  ]
+}
