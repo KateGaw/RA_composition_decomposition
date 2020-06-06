@@ -1,4 +1,4 @@
-
+[![Build status](https://ci.appveyor.com/api/projects/status/gnvp1obpgtn914xm?svg=true)](https://ci.appveyor.com/project/KateGaw/ra-composition-decomposition)
 
 https://kategaw.github.io/RA_composition_decomposition/
 
