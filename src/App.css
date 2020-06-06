@@ -1,0 +1,258 @@
+.window {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.other_blocks {
+    /* border: 1px solid black; */
+    margin-left: 20%;
+    display: flex;
+    flex-wrap: wrap;
+    width: 872px;
+}
+
+
+/* NEWS */
+
+.all_news {
+    /* border: 1px solid black; */
+    width: 575px;
+    margin-left: 20%;
+}
+
+.tabs {
+    display: flex;
+    align-items: baseline;
+}
+
+.tabs_item {
+    padding: 12px;
+}
+
+.tabs_date {
+    color: gray;
+    font-size: 13px;
+}
+
+.currency {
+    display: flex;
+}
+
+.currency_block {
+    display: flex;
+    margin: 10px;
+    align-items: baseline;
+}
+
+.currency_main {
+    margin-right: 7px;
+    font-weight: 500;
+}
+
+.currency_value {
+    margin-right: 5px;
+}
+
+.currency_diff {
+    color: gray;
+    font-size: 13px;
+}
+
+.news {
+    margin-left: 10px;
+}
+
+.news_block {
+    display: flex;
+    align-items: center;
+    height: 25px;
+}
+
+.noicon {
+    width: 13px;
+    height: 13px;
+    margin-right: 10px;
+}
+
+.news_text {
+    font-size: 15px;
+}
+
+
+/* WATCH */
+
+.all_watch {
+    /* border: 1px solid black; */
+    width: 255px;
+    padding: 20px;
+}
+
+.watch_image {
+    width: 100px;
+    height: 100px;
+    /* border: 1px solid; */
+    border-radius: 50%;
+}
+
+.watch_title {
+    margin-bottom: 0;
+}
+
+.watch_text {
+    font-size: 15px;
+}
+
+
+/* SEARCH */
+
+.search {
+    /* border: 1px solid; */
+    width: 872px;
+    margin-left: 20%;
+}
+
+.search_block {
+    display: flex;
+}
+
+.browser_name {
+    width: 45px;
+    margin: 0 5px;
+}
+
+.search_input {
+    height: 50px;
+    width: 75%;
+}
+
+.search_button {
+    width: 165px;
+    font-size: 21px;
+}
+
+.menu {
+    display: flex;
+    margin-left: 45px;
+}
+
+.menu_items {
+    margin: 12px 15px;
+}
+
+.example,
+.example_text {
+    margin-top: 0;
+    font-size: 13px;
+    margin-left: 60px;
+    display: inline;
+}
+
+.example_text {
+    margin: auto;
+    color: gray;
+}
+
+.advertising {
+    margin-top: 20px;
+    display: flex;
+    margin: 16px 8% 10px;
+}
+
+
+/* WEATHER */
+
+.weather {
+    width: 217px;
+    /* border: 1px solid black; */
+    text-align: center;
+    height: fit-content;
+    padding: 8px;
+}
+
+.weather h3 {
+    text-align: initial;
+}
+
+.weather_block {
+    display: flex;
+    align-items: center;
+}
+
+.weather_img {
+    width: 50px;
+    height: 50px;
+}
+
+.weather_values {
+    margin: auto;
+}
+
+
+/* MAP */
+
+.map {
+    /* border: 1px solid black; */
+    height: 110px;
+    padding: 0 30px;
+}
+
+
+/* TV */
+
+.tv {
+    /* border: 1px solid black; */
+    width: 45%;
+}
+
+.tv_header {
+    display: flex;
+    align-items: center;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.tv_header button {
+    height: 20px;
+}
+
+.tv_block {}
+
+.item {
+    display: flex;
+    margin: 0 10px;
+}
+
+.tv_time {
+    margin-right: 14px;
+}
+
+.tv_title {
+    font-weight: 500;
+    margin-right: 10px;
+}
+
+.tv_desc {
+    color: gray;
+}
+
+
+/* VISITED */
+
+.visited {
+    /* border: 1px solid black; */
+}
+
+.visited_header {
+    font-weight: 500;
+    margin-right: 10px;
+    font-size: 18px;
+}
+
+.visited_block {}
+
+.visited_name {
+    font-weight: 500;
+}
+
+.visited_desc {}
